@@ -1,7 +1,7 @@
 const express = require('express')
-const mysql = require('mysql')
+//const mysql = require('mysql')
 const app = express()
-const sql = "SELECT * FROM `events` WHERE `eid` = 126608"
+//const sql = "SELECT * FROM `events` WHERE `eid` = 126608"
 
 /*
 
